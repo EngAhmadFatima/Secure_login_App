@@ -1,0 +1,15 @@
+D:\visual studio 2015\Projects\SCR_Project\SCR_Project\bin\Debug\SCR_Project.exe.config
+D:\visual studio 2015\Projects\SCR_Project\SCR_Project\bin\Debug\SCR_Project.exe
+D:\visual studio 2015\Projects\SCR_Project\SCR_Project\bin\Debug\SCR_Project.pdb
+D:\visual studio 2015\Projects\SCR_Project\SCR_Project\obj\Debug\SCR_Project.csprojResolveAssemblyReference.cache
+D:\visual studio 2015\Projects\SCR_Project\SCR_Project\obj\Debug\SCR_Project.MainForm.resources
+D:\visual studio 2015\Projects\SCR_Project\SCR_Project\obj\Debug\SCR_Project.Properties.Resources.resources
+D:\visual studio 2015\Projects\SCR_Project\SCR_Project\obj\Debug\SCR_Project.csproj.GenerateResource.Cache
+D:\visual studio 2015\Projects\SCR_Project\SCR_Project\obj\Debug\SCR_Project.exe
+D:\visual studio 2015\Projects\SCR_Project\SCR_Project\obj\Debug\SCR_Project.pdb
+D:\visual studio 2015\Projects\SCR_Project\SCR_Project\bin\Debug\Login.accdb
+D:\visual studio 2015\Projects\SCR_Project\SCR_Project\obj\Debug\SCR_Project.RegistrationForm.resources
+D:\visual studio 2015\Projects\SCR_Project\SCR_Project\obj\Debug\SCR_Project.LoginForm.resources
+D:\visual studio 2015\Projects\SCR_Project\SCR_Project\obj\Debug\SCR_Project.ResetPasswordForm.resources
+D:\visual studio 2015\Projects\SCR_Project\SCR_Project\obj\Debug\SCR_Project.NewPassword.resources
+D:\visual studio 2015\Projects\SCR_Project\SCR_Project\obj\Debug\SCR_Project.UpdateInfoForm.resources
